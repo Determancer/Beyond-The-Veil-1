@@ -53,7 +53,7 @@ item.surgeon_summons.name=外科医生传唤信
 lore.flute=§5§o触摸、注视甚至思考这支长笛都会给我带来极其诡异的感受。那感觉仿佛是它并不存在于我的世界......然而它却在这里，在我的掌中。
 lore.saw_cleaver=§5§o这件武器...这一怪诞的奇异金属制品是工程学的杰作。它能够轻易地在其普通形态和延展形态间转换，同时也能使其使用者在战斗间灵活闪避，风格如同锯刃的远古主人。
 lore.wolf_medallion=§5§o这件金属饰品会在怪物靠近时发出低吼，向它的佩戴者发出警告。这无疑是远古之时猎人使用的物品。
-lore.bronze_sphere=§5§o不不不，这不可能，这绝不可能。我§l知道§5§o这个球体。我§l知道§5§o我曾经拿过它。我只是...没有记住它。到如今，它一定在我发现它的渔村中度过了漫长岁月吧？
+lore.bronze_sphere=§5§o不不不，这不可能，这绝不可能。我§l认得§5§o这个球。我§l知道§5§o我曾拿起它。我只是...没能想起它。时光流转至今，在我发现它的渔村里，想必它已历尽沧桑了吧？
 lore.crucible=§5§o往昔的斩魔人所挥舞的武器。极其强大，但是每次使用后需要很长的再充能时间。
 tooltip.bronze_sphere=球内存有 %1$s 点经验值。
 lore.tablet=§5§o一块古老的石碑，上面刻着怪异的碑文。我能破译它吗？
@@ -349,11 +349,11 @@ angry.shoggoth.bad=一只沉浸于杀戮生灵的修格斯最终会将杀意转�
 
 dagon.greeting.0=结盟非吾所求
 dagon.greeting.1=汝将为吾效劳
-dagon.greeting.2=成功当赐汝重赏
-dagon.greeting.3=失败后果无以言说
-dagon.greeting.4=汝为吾先驱
+dagon.greeting.2=成则赐汝重赏
+dagon.greeting.3=败果无以言说
+dagon.greeting.4=汝为吾之先驱
 dagon.greeting.5=致此金于渔民
-dagon.greeting.6=彼当知汝即吾使
+dagon.greeting.6=彼当谓汝吾使
 dagon.greeting.7=继以神像共鸣
 dagon.greeting.8=吾将聆听汝声
 dagon.bringgold=必须把这三个金块带给渔民居民们。我们得快点。
@@ -406,7 +406,7 @@ dweller.stockpiler.greeting1=§5§o我们无法信任你们这些外乡人。早
 dweller.stockpiler.greeting2=§5§o拜托，麻烦离我们§l远§5§o点。
 
 dweller.trustedstockpiler.greeting0=§5§o我以前错怪你了，外乡人。
-dweller.trustedstockpiler.greeting1=§5§o当然，我们现在把你视为朋友。
+dweller.trustedstockpiler.greeting1=§5§o当然，你现在是我们的朋友了。
 dweller.trustedstockpiler.greeting2=§5§o请随意，你可以拿走仓库的任何东西。
 
 dweller.drunk.greeting0=一个新来的，是不？这年头可看八见多少歪乡人。
@@ -447,7 +447,7 @@ dweller.drunk.greeting34=我...我兽够酒精了，兽够了。
 dweller.drunk.greeting35=......
 
 dweller.bartender.talk0={哼呣。}我们并不喜欢外乡人来这，但如果你真有需要，我倒不会拒绝让你留宿一晚。楼上还有一些床。
-dweller.bartender.talk1=不必在意那个身穿红衣的家伙。他是个嗜酒的蠢货，无休无止地从嘴里吐出谎言。
+dweller.bartender.talk1=不必在意那个身穿红衣的家伙。他是个嗜酒的蠢货，只会无休无止地吐出谎言。
 dweller.bartendertrustedbar.talk0=嘿，如果你想休息的话，楼上还有些床。
 dweller.bartendertrustedbar.talk1=想喝杯酒？尽管开口就好。第一杯本店请客。
 dweller.bartendertrustedbar.talk1.option0=谢谢:那我笑纳了。
@@ -1049,7 +1049,7 @@ research.INTROSPECTIONDREAM.stage.0=一段关于静思的记忆，在我行走�
 research.DEEPROAR.title=怒吼
 research.DEEPROAR.stage.0=在深潜化时，我无法使用饰品的主动效果，也无法打开饰品能力菜单。<BR>然而，在这一形态下，我可以发出令人血液凝固的怒吼，让我附近的所有实体陷入莫大的恐怖之中，通过按下饰品使用主动效果的同一按键即可释放该技能。<BR>将恐惧刺入我的敌人的心脏，即是比任何时刻都更接近神。
 
-research.TONEWDEPTHS.title=深渊之渊
+research.TONEWDEPTHS.title=极渊之渊
 research.TONEWDEPTHS.stage.0=我们必须继续下去。<BR>永不屈服，因为真相在即，帷幕将隐，我的知识日益增长，我的意志...<BR>我还剩下什么意志吗？我心惶惶，如同脊骨已经被人剥离。<BR>不，我们仍将继续。我们必须如此。<BR>潜往大海极深的底部。<BR>前往太初，然后抵达无穷。<BR>我们的旅途永不终结，直到我们揭开...直到我们...<BR>...等等...<BR>...“我们”是指谁？
 
 research.WATERDREAM.title=深水之梦
